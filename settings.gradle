@@ -1,0 +1,3 @@
+include ':fireflyApi'
+include ':app'
+rootProject.name = "Third party Lib"
